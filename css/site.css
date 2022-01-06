@@ -1,0 +1,31 @@
+:root {
+	/* colors from nano-emacs.el, and nord */
+	--bg: var(--nord0);
+	--fg: var(--nord6);
+	--highlight: var(--nord1);
+	--critical: var(--nord11);
+	--salient: var(--nord9);
+	--strong: var(--nord6);
+	--popout: var(--nord12);
+	--subtle: var(--nord2);
+	--faded: #677691;
+}
+
+body {
+	font-family: 'Roboto Mono';
+	font-size: 22px;
+	background-color: var(--bg);
+	color: var(--fg);
+}
+
+a {
+	color: var(--critical);
+}
+
+h2 {
+	color: var(--popout);
+}
+
+.critical {
+	color: var(--critical);
+}

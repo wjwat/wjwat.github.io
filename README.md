@@ -1,1 +1,0 @@
-# One time when I was a kid I found a baby shark in a drainage ditch by my house. Nothing has been as cool as that since.
